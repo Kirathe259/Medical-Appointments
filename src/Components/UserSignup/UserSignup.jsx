@@ -20,7 +20,7 @@ import Select from "@mui/material/Select";
 const FormTitle = styled("div")({
   backgroundColor: "#c00100",
   color: "white",
-  width: 400,
+  width: 500,
   textAlign: "center",
   fontFamily: "Nunito, sans-serif",
   fontSize: 15,
@@ -230,7 +230,7 @@ function UserSignup() {
       >
         <ToastContainer />
 
-        <Box sx={{ width: "100%", maxWidth: { xs: "100%", md: "400px" } }}>
+        <Box sx={{ width: "100%", maxWidth: { xs: "100%", md: "500px" } }}>
           <FormTitle style={{ backgroundColor: "#095", }}>
             <h1>Afya Bora</h1>
             <h3 style={{ textAlign: "center", position: "relative" }}>
