@@ -3,7 +3,7 @@ import VerifyOtp from '../Components/VerifyOtp/VerifyOtp'
 
 const VerifyOtpPage = () => {
   return (
-    <div>
+    <div style={{marginLeft: '32vw'}}>
       <VerifyOtp/>
     </div>
   )
