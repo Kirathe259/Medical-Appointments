@@ -1,9 +1,10 @@
 import React from 'react'
+import PasswordReset from '../Components/ResetPassword/ResetPassword'
 
 const ResetPasswordPage = () => {
   return (
-    <div>
-      <ResetPassword/>
+    <div style={{marginLeft: '30vw'}}>
+      <PasswordReset/>
     </div>
   )
 }
