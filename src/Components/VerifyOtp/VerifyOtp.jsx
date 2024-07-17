@@ -88,7 +88,7 @@ function VerifyOtp() {
 					variant="h3"
 					gutterBottom
 					sx={{ color: "#095", fontWeight: "bold" }}>
-					TeleAfia
+					Afya Bora
 				</Typography>
 				<Typography
 					variant="h5"

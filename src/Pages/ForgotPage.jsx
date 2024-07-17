@@ -1,10 +1,9 @@
 import React from 'react'
-import ForgotPassword from '../Components/ForgotPassword/ForgotPassword'
-im
+import ForgotPassword from '../Components/ForgotPassword/ForgotPassword';
 
 const ForgotPage = () => {
   return (
-    <div>
+    <div style={{marginLeft: '29vw'}}>
       <ForgotPassword/>
     </div>
   )
